@@ -1,0 +1,47 @@
+User Authentication:
+
+Users can register and log in.
+
+Use JWT (JSON Web Tokens) for authentication.
+
+Task Management:
+
+Users can create, read, update, and delete tasks.
+
+Each task will have:
+
+Title
+
+Description
+
+Status (e.g., "Pending", "In Progress", "Completed")
+
+Due date
+
+Pagination and Filtering:
+
+Users can filter tasks by status.
+
+Implement pagination for the list of tasks.
+
+Error Handling:
+
+Proper error handling for invalid requests.
+
+API Documentation:
+
+Use Swagger or Postman to document the API.
+
+
+Tech Stack
+Backend: Node.js, Express.js
+
+Database: MongoDB (with Mongoose for schema modeling)
+
+Authentication: JWT
+
+API Testing: Postman
+
+API Documentation: Swagger
+
+Version Control: Git and GitHub

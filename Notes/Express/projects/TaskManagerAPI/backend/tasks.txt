@@ -1,0 +1,7 @@
+Features of the Task Manager API:
+User authentication (register/login)
+CRUD operations for tasks
+Task status management (Pending, In Progress, Completed)
+Secure API with JWT authentication
+Database connection with MongoDB
+Deployment on a cloud platform (Render, Vercel, or Railway)
